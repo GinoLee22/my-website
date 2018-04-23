@@ -4,6 +4,6 @@ This is a really awesome website
 
 Now editing on update-readme branch
 
-update locally
+Update locally, then remotely
 
 
